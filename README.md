@@ -4,7 +4,10 @@
 
 Built with Python, Streamlit, Gemini, FAISS and SQLite.
 
-SS
+## Screenshots
+![My Learning dashboard](Screenshots/Learn_from_pdf.jpeg)
+![Lesson with visual and voice](Screenshots/audio_explanation.jpeg)
+![Revision session](Screenshots/Uploaded_materials.jpeg)
 
 ---
 
